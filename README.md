@@ -28,7 +28,7 @@ Good luck surviving the midnight at forest, make sure to look out for the monste
 ## System Requirements:
 
 ### Minimum:
-OS *: Windows 7
+OS: Windows 10
 
 Processor: Intel i3 or AMD equivalent (AMD Ryzen 3+ Series)
 
@@ -39,8 +39,6 @@ Graphics: NVIDIA GTX 710 or AMD equivalent (AMD FireStream 9170+)
 DirectX: Version 11
 
 Storage: 1 GB available space
-
-Additional Notes: These will definitely change overtime
 
 ### Recommended
 OS: Windows 10
@@ -54,7 +52,3 @@ Graphics: GeForce GTX 910 or AMD equivalent (AMD Radeon R9 200+)
 DirectX: Version 11
 
 Storage: 1 GB available space
-
-Additional Notes: These will definitely change overtime
-
-### * Starting January 1st, 2024, the Steam Client will only support Windows 10 and later versions.
